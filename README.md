@@ -30,5 +30,3 @@ The forest (bagging) clearly beats one tree, but it is tied with Logistic Regres
 ## Run it
 `uv sync`, then open `notebooks/01_breast_cancer.ipynb` and run all cells.
 
-## Credits
-Learning project, built step by step with an AI tutor (Claude). I ran and checked the code myself.
